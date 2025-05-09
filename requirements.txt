@@ -1,1 +1,4 @@
 langchain_astradb
+data-ingestion-lib
+
+-e .
